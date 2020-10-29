@@ -44,3 +44,12 @@ input
     border-bottom: 1px solid y;
     padding: 8px;
 }
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin: 10px;
+    
+}
